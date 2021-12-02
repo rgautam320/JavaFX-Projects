@@ -1,0 +1,7 @@
+# Ignoring Unnecessary Files and Folders
+.metadata
+bin
+build.fxbuild
+.classpath
+org.eclipse.jdt.core.prefs
+.project
